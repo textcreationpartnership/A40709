@@ -1,0 +1,804 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The general assembly, or, The necessity of receiving the communion in our publick congregations evinced from the nature of the church, the Word of God, and presbyterian principles, in a sermon / lately preached in the Cathedral Church of Exeter by Francis Fullwood.</title>
+            <author>Fullwood, Francis, d. 1693.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1667</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 70 KB of XML-encoded text transcribed from 18 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40709</idno>
+            <idno type="STC">Wing F2504</idno>
+            <idno type="STC">ESTC R35476</idno>
+            <idno type="EEBO-CITATION">15342640</idno>
+            <idno type="OCLC">ocm 15342640</idno>
+            <idno type="VID">103430</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40709)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 103430)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1188:43)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The general assembly, or, The necessity of receiving the communion in our publick congregations evinced from the nature of the church, the Word of God, and presbyterian principles, in a sermon / lately preached in the Cathedral Church of Exeter by Francis Fullwood.</title>
+                  <author>Fullwood, Francis, d. 1693.</author>
+               </titleStmt>
+               <extent>[4], 30 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by E. Cotes for James Collins ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1667.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Marginal notes.</note>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Doctrines --  Apologetic works.</term>
+               <term>Communion sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-09</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:103430:1" rendition="simple:additions"/>
+            <p>
+               <hi>THE General Aſſembly:</hi> OR, <hi>The</hi> Neceſsity <hi>of Receiving the</hi> Communion <hi>in our</hi> Publick <hi>Congregations, evinced from the Nature of the</hi> Church, <hi>the</hi> Word <hi>of God, and</hi> Presbyterian <hi>Principles. IN A SERMON Lately Preached In the CATHEDRAL CHURCH of</hi> EXETER.</p>
+            <p>
+               <hi>By</hi> Francis Fullwood. <hi>DD.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>Luke</hi> 22. 19.</bibl>
+               <p>This do in remembrance of me.</p>
+            </q>
+            <q>
+               <bibl>1 <hi>Cor.</hi> 10. 17</bibl>
+               <p>—One Bread and one Body.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Canon. decim. Apoſtolorum.</hi>
+               </bibl>
+               <p>Omnes fideles, qui ingrediuntur Eccl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m, &amp; Scripturas <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uliunt, non autem p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>verant in ORATIONE, n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>c <hi>Sanctam</hi> COMM<g ref="char:V">Ʋ</g>NIONEM p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rcip<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>unt, ve ut inquietudines Eccl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſiae Commovent, &amp; Conven<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Com<g ref="char:EOLunhyphen"/>mun<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>one pr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>v<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ri.</p>
+            </q>
+            <p>London, <hi>Printed by</hi> E. Cotes, <hi>for</hi> James Collins, <hi>at the Kings Head in</hi> Weſtminſter-Hall. 1667.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:103430:2"/>
+            <pb facs="tcp:103430:2"/>
+            <head>
+               <hi>To my Worthy</hi> Brethren, <hi>the Mi<g ref="char:EOLhyphen"/>niſters, that yet Conſent not in point of</hi> Conformity.</head>
+            <p>AMongſt the many ſtrange and ſad <hi>Diſtempers</hi> of this poor Ch<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rch, I think there i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> none of more <hi>ſad</hi> or <hi>ſtrange</hi> obſervatio<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, than th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Prodigious</hi> neglect of the <hi>Lords Supper.</hi> After ſeveral <hi>Eſſayes,</hi> and <hi>other</hi> Methods, i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> my Place and Calling, uſed to redreſs it, at <hi>length theſe words burſt out.</hi>
+            </p>
+            <p>If they ſeem ſomewhat <hi>warm,</hi> I pray you, miſtake not my <hi>zeal</hi> and <hi>charity</hi> which o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ght to be ſo) for ſpite or ma<g ref="char:EOLhyphen"/>lice, or any <hi>evil paſſion;</hi> though indeed, <hi>to me,</hi> while I labour to be <hi>faithful,</hi> and to commend my ſelf to every mans <hi>Conſcience</hi> in the ſight of God; <hi>It is a very ſmall thing to be judged of you, or of mans Judgment.</hi>
+            </p>
+            <p>Yea, let me be bold, and <hi>caution</hi> you alſo (my Brethren) that <hi>you</hi> who have ſtood it out ſo m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nfully <hi>heretofore</hi> againſt the <hi>Independent Separation,</hi> take heed of falling <hi>your ſelves,</hi> and of drawing your <hi>Friends,</hi> unawares with you, into the Gulf of <hi>Browniſme,</hi> by your private <hi>Meetings,</hi> and private <hi>Communions.</hi>
+            </p>
+            <p>Let me, at le<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gth (if there be yet need) perſwade you, to deal like <hi>Chriſtians,</hi> and <hi>honeſt Men,</hi> if not <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ike <hi>Mi<g ref="char:EOLhyphen"/>niſters;</hi> and when your <hi>Friends</hi> deſire your advice about <hi>Communicating</hi> wi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h us, do not intimate <hi>your diſſatis<g ref="char:EOLhyphen"/>faction,</hi> when you cannot <hi>ſpeak</hi> it: or by <hi>ſolemn ſilence</hi> barden them in ſin, and be<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ray them to the <hi>Laws,</hi> when you may <hi>ſave</hi> them from <hi>both.</hi>
+            </p>
+            <pb facs="tcp:103430:3"/>
+            <p> Let me conjure you, if there be any regard due to the <hi>King,</hi> to the <hi>State,</hi> to the <hi>Church,</hi> to the <hi>Laws;</hi> yea, to t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e <hi>Command</hi> and Ordinance of Jeſus Chriſt, <hi>our Lord,</hi> both <hi>yours</hi> a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d <hi>ours,</hi> or to the <hi>ſouls</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f thoſe you ſeem to <hi>love,</hi> or your own <hi>Credit,</hi> and Reputation, d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, as <hi>ſome</hi> of y<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ur B<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ethren, I hope, have done <hi>already:</hi> d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ly, candi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ly, fai<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hfully; and l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t your Fr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ends, by y<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ur ſeaſonab<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e <hi>advice</hi> and good <hi>example,</hi> know, that it is not th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ir conce<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n to <hi>deſpiſe</hi> or cl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mour <hi>Dignities,</hi> and Government, or any longer to neglect their <hi>known</hi> duties, but rather, ſpeed<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ly and h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>artily to endeavour, in their p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aces, to <hi>reform,</hi> that wh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ch they complain of, and to do their <hi>duty,</hi> and receive the <hi>SACRAMENT.</hi>
+            </p>
+            <p>It is not my buſineſs to <hi>accuſe</hi> you, <hi>there is one that accuſes you,</hi> even <hi>Moſes;</hi> the Law <hi>without</hi> you and the Law <hi>within</hi> you: and that, I bear no ma<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ce in my heart agai<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt you, I have this <hi>Teſtimony,</hi> I am ready to r<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ceive the <hi>COMMUNION</hi> with you.</p>
+            <closer>
+               <salute>Farewel,</salute>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:103430:3"/>
+            <epigraph>
+               <bibl>HEBR. 12. 23.</bibl>
+               <q>To the General Aſſembly, and Church of the Firſt-born which are written in heaven.</q>
+            </epigraph>
+            <p>THis <hi>Epiſtle,</hi> you know, was written to the <hi>Hebrews,</hi> that is the Chriſtian <hi>Jews;</hi> who were mix't in their <hi>principles</hi> as well as <hi>name:</hi> and though, <hi>Chriſtians,</hi> were ſomewhat <hi>Jewiſh.</hi> They ſaw a neceſſity of the <hi>Goſpel,</hi> and did <hi>pro<g ref="char:EOLhyphen"/>feſs</hi> it; but ſeem'd to retain a ſmack of the <hi>Law:</hi> not as yet <hi>wholly</hi> purged from the <hi>Idol</hi> of their <hi>Tribe,</hi> the leaven of the Phariſees, the old leaven of the <hi>firſt di<g ref="char:EOLhyphen"/>ſpenſation.</hi>
+            </p>
+            <p>Beſides, they had many <hi>friends,</hi> even the body of the <hi>Jewiſh party</hi> of the <hi>other</hi> perſwaſion; and ſome of theſe were become their <hi>enemies</hi> for <hi>Chriſts ſake,</hi> and the <hi>Goſpel,</hi> and perſecuted them for their preſent Conformity: So that, conſidering the <hi>perſecutions</hi> of their enemies, the <hi>perſwaſions</hi> of their friends, and the eaſie <hi>Bias</hi> of their own ſomewhat <hi>legal</hi> inclinations, we may believe they were in <hi>no little danger.</hi>
+            </p>
+            <p>Hereupon, the Infuſions of the <hi>Gnoſticks,</hi> who pre<g ref="char:EOLhyphen"/>tended to <hi>knowledge</hi> and prudence above any others, the bold and private <hi>whiſpers</hi> of theſe <hi>falſe teachers,</hi> aſſault and charm them with all Advantages: they at firſt incline them to <hi>much Caution,</hi> then Stagger their <hi>faith,</hi> and now, they have prevailed with divers among them, to lo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>k back, yea to <hi>d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aw back</hi> and <hi>forſake</hi> the Chriſtian <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mblies,</hi> that were then as <hi>publique</hi> as the <note place="margin">
+                  <hi>Heb</hi> 10 <hi>ult. c.</hi> 10 <hi>v</hi> 25.</note> times would <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:punc">▪</g>
+            </p>
+            <pb n="2" facs="tcp:103430:4"/>
+            <p> 
+               <hi>This</hi> was the <hi>occaſion</hi> of this Medicinal <hi>Epiſtle:</hi> the <hi>ſcope</hi> whereof is conſequently, to <hi>confirm</hi> and <hi>ſecure</hi> them in the Truth, the <hi>Neceſsity</hi> and the incomparable <hi>Excel<g ref="char:EOLhyphen"/>lency</hi> of the <hi>Goſpel:</hi> eſpecially againſt any <hi>Jewiſh pre<g ref="char:EOLhyphen"/>tenſions</hi> to the Contrary: the laſt of theſe, <hi>viz.</hi> The <hi>excellency</hi> of the <hi>Goſpel,</hi> you have in a moſt Elegant and ſplendid manner, by a very particular <hi>Collation</hi> of the <hi>Moſaical</hi> and <hi>Chriſtian</hi> ſtate, diſplayed in the <hi>Text</hi> and <hi>Context.</hi>
+            </p>
+            <p>Firſt, He draws the <hi>ſhade</hi> and black eſtate of the <hi>Law;</hi> to which as <hi>Chriſtians,</hi> they <hi>were not come.</hi> For ye <hi>are not come unto the mount that might not be touched and burned with fire, Nor unto blackneſs and darkneſs and Tempeſt,</hi> &amp;c. verſ. 18, 19, 20, 21.</p>
+            <p>Then he ſets by it, <hi>that which exceeds in glory,</hi> the <note place="margin">2 <hi>Cor.</hi> 3.</note> 
+               <hi>Goſpel State,</hi> to which, as <hi>Chriſtians, they were come,</hi> verſ. 22, 23, 24. <hi>but ye are come to Mount Sion, and unto the City of the living God, the Heavenly Jeruſalem: and to an innumerable Company of Angels. To the General</hi> 
+               <note place="margin">
+                  <hi>Ve<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſ.</hi> 22 23, 24, 25.</note> 
+               <hi>Aſſembly and Church of the firſt born,</hi> and to <hi>God the Judge of all, and to the Spirits of juſt men made perfect, and to Jeſus the Mediator of the New Teſtament, and to the blood of ſprinkling which ſpeaks better things than that of Abel.</hi>
+            </p>
+            <p>That part of this <hi>Notable enumeration,</hi> that is, choſen out for our preſent <hi>diſcourſe,</hi> ſeems to lie as the <hi>Corner-ſtone,</hi> on which all the <hi>reſt,</hi> on both ſides, <hi>lean</hi> and <hi>de<g ref="char:EOLhyphen"/>pend:</hi> yea, 'tis marvelous to obſerve, the weight and <hi>Emphaſis,</hi> the <hi>Apoſtle</hi> here lays upon it, and by how many <hi>mighty</hi> and glorious words, he endeavours to commend <hi>this one</hi> and the ſame thing to us; for what can we poſ<g ref="char:EOLhyphen"/>ſibly underſtand by <hi>Mount Sion,</hi> but the <hi>Chriſtian Church?</hi> What by the <hi>City of the living God,</hi> but the
+<pb n="3" facs="tcp:103430:4"/> ſame <hi>Church?</hi> What by the <hi>Heavenly Jeruſalem,</hi> but the <hi>ſame</hi> Church ſtill? and laſtly, what by <hi>the General Aſ<g ref="char:EOLhyphen"/>ſembly</hi> in the Text, but as the Text it ſelf explains it, the <hi>Church of the firſt born.</hi>
+            </p>
+            <p>And indeed, it is the Apoſtles <hi>plain intention,</hi> by <hi>all</hi> this and much more, to inſtruct and perſwade us, that our <hi>being come</hi> to this Church, as his Phraſe is, is the <hi>Ra<g ref="char:EOLhyphen"/>dical</hi> priviledge of <hi>Chriſtianity;</hi> and that all other <hi>Evangelical</hi> priviledges, are but <hi>branches</hi> or <hi>fruits</hi> of this; the <hi>Sum</hi> is, by our being <hi>come</hi> to the Church of Chriſt, we are <hi>come</hi> to the <hi>fellowſhip</hi> of the <hi>General Aſ<g ref="char:EOLhyphen"/>ſembly</hi> of Saints on <hi>earth,</hi> and in <hi>heaven,</hi> of <hi>Myriads</hi> of <hi>Angels,</hi> of Jeſus the <hi>Mediatour,</hi> and <hi>God</hi> himſelf the <hi>Judge of all.</hi>
+            </p>
+            <p>Such is the <hi>happineſs</hi> of our <hi>Chriſtian</hi> State; and I pray God, that none of us <hi>failing of the grace of God, by the ſpringing up of any root of bitterneſs in us,</hi> ſhould <note place="margin">
+                  <hi>Verſ.</hi> 15 <hi>c.</hi> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 1.</note> ſeem to <hi>come</hi> or <hi>fall ſhort</hi> of it.</p>
+            <p>Now, you <hi>know,</hi> your <hi>Calling brethren: ye are come,</hi> that is, ye are, and ſtand <hi>admitted</hi> to, ye are and con<g ref="char:EOLhyphen"/>tinue <hi>members</hi> of, ye <hi>profeſs</hi> and enjoy <hi>fellowſhip</hi> with, the <hi>Church</hi> of Chriſt deſcribed here, by its <hi>Nature,</hi> ['tis an <hi>Aſſembly]</hi> by it's <hi>quantity,</hi> ['tis <hi>general,]</hi> by it's <hi>dignity,</hi> ['tis the Church of the <hi>firſt-born]</hi> and by it's <hi>ſecurity,</hi> ['tis written, or <hi>inrolled in heaven] Ye are come—to the General Aſſembly, and Church of the firſt-born which is written or inrolled in heaven.</hi>
+            </p>
+            <p>And hither we <hi>come,</hi> and ſhall proceed in Order: firſt conſidering the Church in the <hi>Nature</hi> of it, as it is an <hi>Aſſembly.</hi>
+            </p>
+            <p>THe word, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, is ſuppoſed by ſome, to admit <note place="margin">The Nature o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Church.</note> 
+               <hi>eleven</hi> different ſignifications in <hi>Scripture;</hi> yet
+<pb n="4" facs="tcp:103430:5"/> they <hi>all</hi> conſent in this one <hi>General</hi> expreſſion of an Aſſembly: it therefore affords us the <hi>common</hi> and not the <hi>ſpecial</hi> or diſtinguiſhing <hi>nature</hi> of the Church.</p>
+            <p>Yet, though we might reckon many <hi>more ſorts</hi> of Churches or <hi>aſſemblies</hi> differenc'd, by their Author, Sub<g ref="char:EOLhyphen"/>jects, qualities, ends, &amp;c. Yet, I conceive they may be all reduced, as to our <hi>preſent</hi> diſcourſe, to theſe three. 1. There is an <hi>Aſſembly</hi> that is <hi>ſinful,</hi> called by the <hi>Pſalmiſt,</hi> a <hi>Congregation of evil doers,</hi> the <hi>Divels</hi> Chap<g ref="char:EOLhyphen"/>pel, <note place="margin">
+                  <hi>Pſal.</hi> 26. 5.</note> and the <hi>Synagogue</hi> of <hi>Satan.</hi> 2. There is an Aſſem<g ref="char:EOLhyphen"/>bly <hi>Civil,</hi> or a Church of <hi>man,</hi> gathered together for <note place="margin">
+                  <hi>Act.</hi> 19 <hi>v</hi> 32.</note> 
+               <hi>Publick</hi> and <hi>Civil</hi> occaſions. 3. Laſtly, there is a <hi>Sacred</hi> Church, a <hi>Holy Convocation,</hi> the <hi>Church of God;</hi> Such <note place="margin">1 <hi>Cor.</hi> 1. 1.</note> is the <hi>Aſſembly</hi> in the Text.</p>
+            <p n="1">1. Here we may Note. 'tis an <hi>Aſſembly,</hi> not a <hi>Rab<g ref="char:EOLhyphen"/>ble</hi> a confuſed and turbulent meeting of <hi>ungovern'd per<g ref="char:EOLhyphen"/>ſons,</hi> upon their own heads but an <hi>Aſſembly,</hi> that is a <hi>Congregation,</hi> that is alſo a <hi>Convocation;</hi> Warranted by a juſt and a <hi>Regular Calling. Eccleſia</hi> (ſaith S. <hi>Auguſtine) ex vocatione appellata eſt.</hi> It were eaſie to make it evi<g ref="char:EOLhyphen"/>dent that <hi>profain</hi> Authours, as well as <hi>Sacred</hi> and <hi>Eccle<g ref="char:EOLhyphen"/>ſiaſtical,</hi> do <hi>place</hi> this <hi>call</hi> in the very <hi>definition</hi> of the Church; <hi>&amp; propriè Coetum aliquem à ſuperiori aliquo Convocatum in finem politicum vel Eccleſiaſticum de<g ref="char:EOLhyphen"/>no<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>at.</hi> Yea the <hi>Church</hi> and the <hi>called</hi> are <hi>Synonimous</hi> terms, generally in <hi>Scripture.</hi>
+            </p>
+            <p>Let <hi>all Aſſemblies</hi> look to their <hi>Calling;</hi> and if the <hi>Magiſtrate</hi> allows them not, let them be ſure of the <hi>word of God,</hi> otherwiſe, we fear <hi>who</hi> will claim them.</p>
+            <p n="2">2. It is an <hi>Aſſembly,</hi> that is <hi>Habitually,</hi> not always <hi>Actually</hi> ſo, much leſs altogether in one and the <hi>ſame place,</hi> the <hi>root</hi> of the <hi>Hebrew,</hi> indeed ſignifies <hi>Congregare,</hi> and the Church, well enough is termed a <hi>Congregation;</hi>
+               <pb n="5" facs="tcp:103430:5"/> but we muſt neceſſarily underſtand it to be ſo in the <hi>firſt act</hi> only, not the <hi>Second:</hi> 'Tis ſo in its firſt <hi>conſti<g ref="char:EOLhyphen"/>tution,</hi> preparation, diſpoſition, not alwayes in the <hi>ex<g ref="char:EOLhyphen"/>erciſe</hi> of <hi>Actual</hi> Fellowſhip and Communion. Indeed, the <hi>Nature</hi> of the Church is rather a <hi>SOCIETY</hi> or a <hi>COMMUNITY</hi> than a <hi>Communion:</hi> 'Tis a Community in <hi>order</hi> to <hi>Actual</hi> Communion, but Actual Commu<g ref="char:EOLhyphen"/>nion is rather the <hi>formal Action</hi> than the true <hi>Nature</hi> of the Church: for if it were not ſo<g ref="char:punc">▪</g> there would be no Church, when there is no <hi>actual</hi> Aſſembling together, and the <hi>diſmiſsing</hi> the Congregation would be the <hi>diſ<g ref="char:EOLhyphen"/>ſolving</hi> and the deſtruction of the Church. Beſides, the <hi>General Aſſembly</hi> or the <hi>Holy Catholick Church,</hi> which cannot thus actually meet together, would be <hi>no Church</hi> at all.</p>
+            <p>Yet, we muſt note, that the very <hi>Nature</hi> of the Church ſuppoſeth fellowſhip and <hi>Communion of Saints,</hi> and conſequently, expects and requires it, as occaſion offers, from all that profeſs themſelves <hi>Members</hi> of it.</p>
+            <p n="3">3. Laſtly, This <hi>Aſſembly,</hi> as it is an habitual, ſo it is a <hi>ſet and fixed</hi> Society of Chriſtians: not a ſtolen or ſnatcht or <hi>occaſional</hi> meeting: but a <hi>ſet</hi> and <hi>fix'd</hi> Socie<g ref="char:EOLhyphen"/>ty, whereby it is rendered <hi>viſible</hi> and known to the <hi>world.</hi> Hereby, it was known what St. <hi>Paul</hi> meant, when he wrote his Epiſtles to the Churches of <hi>Rome, Corinth, Epheſus, Galatia, &amp;c.</hi> Becauſe they were fix'd and conſtant, and open in the profeſſion of Chriſtianity, in the ſame <hi>eſtabliſh't</hi> Aſſembly.</p>
+            <p>It is the ſhame of our Churches, eſpecially in <hi>Ci<g ref="char:EOLhyphen"/>ties,</hi> that our <hi>Congregations</hi> are <hi>certain</hi> only in our <hi>Pa<g ref="char:EOLhyphen"/>riſhes,</hi> and our <hi>Churches diſtinguiſh'd</hi> only by our Houſes and Cohabitation. Our Congregations being as <hi>fluent</hi> as <hi>Rivers,</hi> as unconſtant as water; and as water, <hi>ming<g ref="char:EOLhyphen"/>ling</hi>
+               <pb n="6" facs="tcp:103430:6"/> and <hi>confounding</hi> themſelves one with another, where indeed we have the <hi>ſame place,</hi> but ſeldome or never the ſame <hi>company.</hi> Many perſons, when they go out of their <hi>Houſes,</hi> they are ſcarce reſolved to what <hi>Church</hi> they ſhall go, but are <hi>eaſily</hi> diſpoſed to be car<g ref="char:EOLhyphen"/>ried by the <hi>winde</hi> of <hi>Novelty</hi> or <hi>Party</hi> to any <hi>other</hi> Con<g ref="char:EOLhyphen"/>gregation rather than <hi>their own.</hi>
+            </p>
+            <p>Now if we reflect upon what hath been obſerved of the <hi>Nature</hi> of the Church, we may gather ſomething of the <hi>definition</hi> of it. It is, as you heard, a <hi>fix'd So<g ref="char:EOLhyphen"/>ciety of perſons called. Supply</hi> the <hi>terms</hi> of this <hi>Call, viz.</hi> from <hi>what,</hi> and to <hi>what</hi> theſe perſons are called, and the <hi>Definition</hi> of the Church of Chriſt may be this.</p>
+            <p>
+               <hi>The Church of Chriſt is a fix'd Society of perſons cal<g ref="char:EOLhyphen"/>led out of the world to the worſhip of the true God.</hi> 
+               <note place="margin">The D<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>finition ſ<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e Chu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ch.</note>
+            </p>
+            <p>Again, by <hi>diſtinguiſhing</hi> theſe terms, the <hi>World</hi> and the <hi>Worſhip</hi> of God: (the <hi>World,</hi> as the world of <hi>In<g ref="char:EOLhyphen"/>fidelity,</hi> and the world of <hi>Impiety:</hi> The Worſhip of God, as <hi>external,</hi> by <hi>Ordinances,</hi> and <hi>internal,</hi> by <hi>Graces;)</hi> you have the <hi>Church</hi> in its uſual diſtinction, as <hi>viſible</hi> and <hi>inviſible:</hi> For,</p>
+            <p>The <hi>viſible</hi> Church is nothing elſe, but a company <note place="margin">Diſti<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ct<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>n.</note> 
+               <hi>called</hi> out, or ſevered from the world of <hi>Infidels</hi> to worſhip God in his <hi>external</hi> Ordinances: and the Church <hi>inviſible,</hi> is a company <hi>called</hi> out, or ſevered from the world of <hi>wicked</hi> and impious men to <hi>worſhip God in ſpi<g ref="char:EOLhyphen"/>rit and truth.</hi>
+            </p>
+            <p>But, ſeeing thoſe that worſhip God in <hi>ſpirit and truth,</hi> do alſo worſhip him with <hi>external</hi> worſhip; and thoſe that <hi>believe with the heart,</hi> do alſo <hi>confeſs</hi> with the <note place="margin">Rom, 10.</note> 
+               <hi>mouth,</hi> the Church <hi>inviſible</hi> is found in the Church <hi>vi<g ref="char:EOLhyphen"/>ſible,</hi> as a <hi>part</hi> in the <hi>whole;</hi> and this <hi>diſtinction</hi> is juſtly <note place="margin">Imperfect.</note> 
+               <hi>rejected;</hi> at leaſt concluded <hi>imperfect</hi> and improper by
+<pb n="7" facs="tcp:103430:6"/> very judicious and learned Divines. However it cannot be found in this <hi>Text,</hi> where, doubtleſs, <hi>both</hi> the <hi>Members</hi> of it are held and ſignified by this <hi>Aſsem<g ref="char:EOLhyphen"/>bly,</hi> eſpecially as <hi>General,</hi> and the <hi>General Aſſembly,</hi> which conſideration of the Church now offers it ſelf.</p>
+            <p>HAving ſpoken ſomewhat of the <hi>Nature</hi> of the <note place="margin">Ch<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ch <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s Ca<g ref="char:EOLhyphen"/>tholick.</note> Church as it's an <hi>Aſſembly,</hi> we crave your pati<g ref="char:EOLhyphen"/>ence to take ſome <hi>meaſure</hi> of the <hi>quantity</hi> of it from the word <hi>GENERAL.</hi> The Church is here called <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Omnis Caetus,</hi> the whole Company, or <hi>General Aſſembly,</hi> upon <hi>which</hi> I conceive, we may ſafely ground our <hi>be<g ref="char:EOLhyphen"/>lief</hi> of the <hi>Catholick</hi> or Univerſal Church.</p>
+            <p>Yea, in this <hi>general</hi> affection of the Church, do we not finde ſomething <hi>ſpecial,</hi> ſomething diſtinguiſhing this, from all other Aſſemblies: certainly, there is <hi>no Aſſembly</hi> ſo <hi>general,</hi> this is emphatically the general Aſ<g ref="char:EOLhyphen"/>ſembly; being confined to no <hi>time,</hi> to no <hi>place,</hi> to no <hi>ſort</hi> of <hi>people:</hi> taking in Gods people in <hi>all ages,</hi> ſpread<g ref="char:EOLhyphen"/>ing it ſelf (by the <hi>Goſpel)</hi> over all <hi>Kindreds, and Tongues, and People,</hi> and <hi>Nations</hi> upon earth; having its <hi>Head,</hi> and ten thouſand times ten thouſand of its <hi>Members</hi> in <hi>Heaven,</hi> and great multitudes under the <hi>Earth</hi> it ſelf. For, though the <hi>Souls</hi> of the Saints are ſevered from their <hi>Bodies</hi> by <hi>Death,</hi> yet in ſpight of <hi>Death</hi> and <hi>Hell</hi> it ſelf, both their <hi>Souls</hi> and their <hi>Bodies</hi> are for ever united to <hi>Chriſt</hi> and the <hi>Church;</hi> for they <hi>dye in the Lord,</hi> and <hi>ſleep in Jeſus.</hi>
+            </p>
+            <p>'Tis true, the word <hi>Cathol que</hi> (as the <hi>Fathers</hi> againſt the <hi>Novatians</hi> acknowledge was not uſed by the <hi>Apo<g ref="char:EOLhyphen"/>ſtles,</hi> nor applied to the <hi>Church</hi> till ſome time <hi>after them;</hi> 
+               <note place="margin">P<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſon <hi>on <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Cree<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi>
+               </note> and then, ſometimes in one ſenſe, and ſometimes in another, as a very Learned Man of our own obſerves.
+<pb n="8" facs="tcp:103430:7"/> Yet as in the caſe of <hi>particular</hi> Churches the <hi>diſtin<g ref="char:EOLhyphen"/>ction</hi> of <hi>Par<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſhes</hi> was made long after; yet the ground and reaſon of this diſtinction, and of <hi>Parochial</hi> Chur<g ref="char:EOLhyphen"/>ches, or particular Congregations determined by <hi>Co<g ref="char:EOLhyphen"/>ha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>itat<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on,</hi> is moſt evident in the <hi>Scripture,</hi> where the ſeveral <hi>Churches</hi> bear the names of their ſeveral <hi>Cities.</hi> So, though the word <hi>Catholick</hi> was applied to the Church, ſomet<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>me after; yet the <hi>ground</hi> of this ap<g ref="char:EOLhyphen"/>plication of it, is very apparent, as in ſeveral other pla<g ref="char:EOLhyphen"/>ces; ſo particularly in the <hi>Text</hi> before us: for where the thing in truth is found, it may fairly claim <hi>that name,</hi> as it only ſignifies <hi>that th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ng.</hi> Now by <hi>Cathol<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ck Church,</hi> we mean only the <hi>Univerſal</hi> Body of Chriſt, contain<g ref="char:EOLhyphen"/>ing all <hi>particular</hi> Members and Churches of Chriſt within it, and conſiſting of them: and this <hi>Univerſal Body</hi> we find in the <hi>General Aſſembly</hi> in the Text, where<g ref="char:EOLhyphen"/>in we may therefore <hi>believe the Cathol<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ck Church.</hi>
+            </p>
+            <p>HEre we cannot but obſerve the <hi>Unity</hi> of the <note place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he Chu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ch.</note> Church; for if it be <hi>th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> General Aſſembly,</hi> it can be but one. There are indeed many <hi>particular</hi> Chri<g ref="char:EOLhyphen"/>ſtians, and many particular Aſſemblies of Chriſtians, commonly cal<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed <hi>particular Churches:</hi> but all theſe are knit and united together, (as many <hi>Sheep</hi> in one <hi>Fold,</hi> and many <hi>Companies</hi> in one <hi>City,</hi> and many <hi>Cit<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es</hi> in one <hi>Kingdom</hi> in one common <hi>aggregative</hi> Body, this great <hi>Un<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>verſal Ind<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>viduum,</hi> the Catholick Church or <hi>General Aſſembly. There are many Members, but one</hi> 
+               <note place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Co<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 12. 20</note> 
+               <hi>Body.</hi>
+            </p>
+            <p>
+               <hi>Holding the head</hi> (ſaith the Apoſtle) <hi>from which all</hi> 
+               <note place="margin">Col. 2. 19.</note> 
+               <hi>the b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dy by joynts and bands having n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uriſhm<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nt m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ni<g ref="char:EOLhyphen"/>ſtred and k<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>t tog<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r, increaſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th w<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>h the increaſe of God.</hi> Here is, firſt to be obſerved, the <hi>Church</hi> in its
+<pb n="9" facs="tcp:103430:7"/> 
+               <hi>Head</hi> and <hi>all the Body:</hi> then the <hi>union</hi> of this Church, which is <hi>double;</hi> betwixt the <hi>Head</hi> and <hi>all the Body,</hi> and betwixt the <hi>members</hi> of all the body among themſelves: Again, here is a twofold <hi>effect</hi> of this double <hi>union,</hi> of the <hi>union</hi> betwixt the <hi>Head</hi> and the <hi>Body,</hi> the effect is, <hi>N<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>u<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iſhment Miniſtred:</hi> and of the <hi>union</hi> among the <hi>mem<g ref="char:EOLhyphen"/>bers</hi> and parts of this body, is, <hi>increaſe,</hi> or growth in <hi>grace:</hi> Here is, laſtly, the <hi>means</hi> of all this, <hi>viz. Joynts</hi> and <hi>Bands;</hi> by which the members are all <hi>knit</hi> into <hi>one</hi> body, and <hi>nouriſhed</hi> and <hi>increaſed.</hi>
+            </p>
+            <p>But, what are thoſe happy <hi>Joynts</hi> and <hi>Bands?</hi> 'tis <note place="margin">The Bands of its unity.</note> worth our enquiry, ſeeing the <hi>unity</hi> and conſequently, the <hi>proſperity</hi> of the <hi>whole body</hi> depends upon them; the <hi>Apoſtle</hi> hath notably deſcribed them, in that famous <hi>Eulogy</hi> of the <hi>Primitive</hi> Chriſtians; who, I think, were the <hi>Church of the firſt born,</hi> and the <hi>ſmall thing</hi> or infant of this <hi>General-aſſembly;</hi> they (ſaith he) <hi>Continued ſted<g ref="char:EOLhyphen"/>faſtly</hi> 
+               <note place="margin">
+                  <hi>Act.</hi> 2. 41.</note> 
+               <hi>in the Apoſtles Doctrine and fellowſhip, and in breaking of Bread, and of prayers;</hi> ſo that, profeſſion of the <hi>ſame faith</hi> and Communion in the ſame <hi>Worſhip,</hi> are theſe happy <hi>Joynts</hi> and <hi>Bands,</hi> by which <hi>all</hi> Chri<g ref="char:EOLhyphen"/>ſtians ſtand united in <hi>one body:</hi> and this bleſſed <hi>unity</hi> is <hi>maintained</hi> onely by <hi>continuing ſtedfaſtly</hi> in them; a continuing ſtedfaſtly in the <hi>fellowſhip</hi> of the Apoſtolical Primitive <hi>Doctrine, Sacraments</hi> and <hi>Prayers,</hi> continues the <hi>being</hi> and <hi>unity</hi> of the <hi>one Holy Catholick and Apoſto<g ref="char:EOLhyphen"/>lick Church,</hi> to the end of the world.</p>
+            <p>The Apoſtle S. <hi>Paul</hi> is ſomewhat more <hi>particular:</hi> he ſeems to prove that we are <hi>one body,</hi> becauſe we are <hi>one Spirit:</hi> and both theſe, becauſe we have one <hi>Lord,</hi> 
+               <note place="margin">
+                  <hi>Epiſt</hi> 4.</note> one <hi>Faith,</hi> one <hi>hope,</hi> one <hi>Baptiſm.</hi>
+            </p>
+            <p>
+               <hi>One Lord,</hi> we being all <hi>Subjects</hi> under one <hi>Prince,</hi> Law, and Government, we are thus <hi>one Kingdom,</hi> one
+<pb n="10" facs="tcp:103430:8"/> People, one Church: the ſumm of which <hi>Law</hi> we have in the <hi>D<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>calogue</hi> or ten Commandments; one <hi>Faith, i. e.</hi> profeſſing the ſame <hi>Scriptures,</hi> Articles, and <hi>Funda<g ref="char:EOLhyphen"/>mentals,</hi> the ſum of which we have in the <hi>Apoſtles Creed;</hi> One <hi>Hope</hi> in the ſame <hi>promiſes,</hi> and of the ſame <hi>happineſs;</hi> one <hi>Baptiſm,</hi> that is (by a figure, a <hi>part</hi> of worſhip put for the <hi>whole)</hi> we have but one and the <hi>ſame way</hi> of worſhiping God: <hi>We are all Baptized</hi> 
+               <note place="margin">1 <hi>Cor.</hi> 12. 13.</note> 
+               <hi>into one body, all in every place call upon the Name of the</hi> 
+               <note place="margin">1 <hi>Cor.</hi> 1. 1.</note> 
+               <hi>Lord Jeſus Chriſt,</hi> and though we are <hi>many</hi> particular Chriſtians and Churches, yet we are all <hi>one bread,</hi> and <note place="margin">1 <hi>Cor.</hi> 10. 16, 17.</note> 
+               <hi>one body;</hi> for we are <hi>all partakers of that one bread.</hi>
+            </p>
+            <p>But, becauſe a perſon may <hi>ſecretly abjure</hi> the <hi>King<g ref="char:EOLhyphen"/>dom</hi> of Chriſt, and Apoſtatize from his <hi>Lord</hi> and reject <hi>all hope</hi> in him, and yet the world nor the Church ſuſpect it; Moreover, ſeeing we expreſly own Chriſt to be <hi>our Lord,</hi> and our <hi>hope</hi> in him as our Saviour, by <hi>faith</hi> and <hi>Worſhip;</hi> our <hi>U<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ion</hi> with Chriſt and the Church, is ſaid to be held onely by two Bands: <hi>Faith</hi> and <hi>Worſhip.</hi>
+            </p>
+            <p>Again, for as much as we have ſeldom occaſion to <hi>profeſs</hi> our <hi>Faith,</hi> but in the means of the <hi>Publick Wor<g ref="char:EOLhyphen"/>ſhip:</hi> eſpecially, ſeeing the very <hi>Nature</hi> of the Church is an <hi>aſſembly;</hi> but chiefly, conſidering the <hi>Viſible</hi> Church appears ſuch only at leaſt ordinarily, by her ſet, <hi>Conſtant</hi> and <hi>viſible</hi> Aſſemblies; the <hi>Apoſtle</hi> reduceth the whole matter, to this <hi>one</hi> point, <hi>Not forſaking the</hi> 
+               <note place="margin">
+                  <hi>Heb.</hi> 10. 25.</note> 
+               <hi>aſsembling of our ſelves together.</hi>
+            </p>
+            <p>Yet, once more, becauſe the <hi>word</hi> of the Goſpel is to be preach'd <hi>to all nations:</hi> and <hi>men</hi> as ſuch, though they be not <hi>Chriſtians,</hi> or of the Church, are <hi>Naturally</hi> bound to the duty of <hi>prayer;</hi> and becauſe ſome do hence con<g ref="char:EOLhyphen"/>clude, though very abſurdly, that Set and <hi>Conſtant</hi>
+               <pb n="11" facs="tcp:103430:8"/> Communion in the <hi>word</hi> and <hi>prayer,</hi> is <hi>no part</hi> of the <hi>No<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> of the Church of God; It may not be thought un<g ref="char:EOLhyphen"/>reaſonable, to make the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, a little ſtricter, and in <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ur age</hi> at leaſt, to lay moſt <hi>weight,</hi> upon the reception of the <hi>Lords Supper.</hi>
+            </p>
+            <p>This is certainly the <hi>ſpecial</hi> band of <hi>union</hi> and <hi>fellow<g ref="char:EOLhyphen"/>ſhip</hi> betwixt us, and Chriſt, and the Church: the <hi>other</hi> Ordinances, the <hi>Word</hi> and <hi>Prayer,</hi> do even attend <hi>this</hi> Sacrament: <hi>Breaking of Bread,</hi> was the <hi>Apoſtolical Fel<g ref="char:EOLhyphen"/>lowſhip</hi> in the Primitive Church, <hi>every Lords Day:</hi> and as if <hi>this</hi> were the <hi>Sum</hi> Total of <hi>all</hi> Worſhip, <hi>all Li<g ref="char:EOLhyphen"/>turgies</hi> ſeem to be compiled chiefly <hi>in order</hi> to it: this Ordinance, therefore is expreſly known by the name of <hi>the Communion,</hi> and I could heartily wiſh, that many, that attend our <hi>Prayers</hi> and <hi>Sermons,</hi> do not hence con<g ref="char:EOLhyphen"/>clude they are yet <hi>none of us,</hi> they have no Church-Fellowſhip or Communion with us, becauſe <hi>they refuſe</hi> to Communicate with us in the <hi>Lords Supper.</hi>
+            </p>
+            <p>My <hi>matter</hi> is now fitted, I hope, for a very <hi>ſerious ap<g ref="char:EOLhyphen"/>plication</hi> to which I haſten, as my great <hi>aim.</hi>
+            </p>
+            <p>I Doubt not, but you all remember, what <hi>joy</hi> and en<g ref="char:EOLhyphen"/>couragement <note place="margin">Application General.</note> the <hi>context</hi> offer'd us, to <hi>Come unto,</hi> to Joyn with, and <hi>continue</hi> in the <hi>Fellowſhip</hi> of the Church of God; For we thus <hi>come</hi> to the <hi>General aſſembly;</hi> we have Communion with <hi>our own</hi> Church, and with <hi>all in every place that Worſhip God,</hi> and at all times too: with <hi>Adam</hi> and <hi>Abel</hi> with <hi>Abraham, Iſaac</hi> and <hi>Jacob;</hi> with <hi>N<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, Daniel</hi> and <hi>Job;</hi> with all the <hi>Patriarchs, Confeſ<g ref="char:EOLhyphen"/>ſors</hi> and <hi>Fathers:</hi> the glorious company of the <hi>Apo<g ref="char:EOLhyphen"/>ſtles,</hi> the goodly fellowſhip of the <hi>Prophets,</hi> the Noble Army of <hi>Martyrs,</hi> and the <hi>holy Church throughout all the World.</hi> Yea thus, you <hi>dwell</hi> in the <hi>holy Hill,</hi> Moun<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Sion,
+<pb n="12" facs="tcp:103430:9"/> the <hi>new</hi> and heavenly <hi>Jeruſalem;</hi> where, even in <hi>this</hi> life you have fellowſhip with <hi>Myriads of Angels,</hi> who have the <hi>charge</hi> of you; where you have fellowſhip with <hi>Jeſus Chriſt</hi> as <hi>Mediatour,</hi> and all the virtues of the <hi>blood of ſprinkling:</hi> and thereby alſo, in the <hi>pardon</hi> and <hi>favour</hi> and <hi>preſence</hi> and <hi>glory</hi> of God himſelf the <hi>Judge of all.</hi>
+            </p>
+            <p>Who would not <hi>covet,</hi> who would not <hi>ſtedfaſtly con<g ref="char:EOLhyphen"/>tinue</hi> in, and carefully <hi>improve</hi> ſuch a <hi>ſociety,</hi> where ſuch are priviledges of <hi>every member and ſuch honour have all it's Saints.</hi>
+            </p>
+            <p>
+               <hi>Let us then, hold faſt the profeſsion of our fa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th with<g ref="char:EOLhyphen"/>out wavering;</hi> when the bleſſed Apoſtle preach't this Doctrine, this was the uſe he made of it: Seeing we are all come to this General Aſſembly, let us never <hi>depart</hi> from it: never <hi>forſake</hi> the <hi>Aſsembling our ſelves toge<g ref="char:EOLhyphen"/>ther as the manner of ſome is. This,</hi> in the <hi>Apoſtles</hi> ſenſe, is not only to <hi>let looſe,</hi> but to <hi>let go</hi> the profeſſion of our faith: ye have heard of the excellent <hi>unity</hi> of this <hi>Gene<g ref="char:EOLhyphen"/>ral Aſsembly,</hi> tremble to think of <hi>breaking</hi> it: ye have heard of the glor<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ous <hi>advantages</hi> of all that <hi>come</hi> to it, and have <hi>true</hi> and ſincere fellowſhip with it, let us <hi>therefore fear leaſt any of us ſhould ſeem to fall ſhort of</hi> 
+               <note place="margin">
+                  <hi>Ca<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> 4. 1.</note> 
+               <hi>them.</hi>
+            </p>
+            <p>The Apoſtle ſpeaks <hi>bitterly,</hi> ſo ſome would expreſs it: <hi>Mark thoſe,</hi> ſaith he, that cauſe <hi>diviſions</hi> and offences, <note place="margin">
+                  <hi>R<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>m</hi> 16 17</note> and <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>void them:</hi> he uſeth a <hi>hard</hi> (ſome perphaps would think it a <hi>railing)</hi> word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, it ſignifies diſſen<g ref="char:EOLhyphen"/>tion cauſing Schiſm or Separation, yea Sedition and Fa<g ref="char:EOLhyphen"/>ction, whereby they greatly Scandalize, wound and di<g ref="char:EOLhyphen"/>vide the Church: therefore the Apoſtle chargeth the Church with ſome heat, that they ſhould <hi>mark ſuch</hi> and <hi>avoid</hi> them: that they ſhould <hi>mark</hi> them, as
+<pb n="13" facs="tcp:103430:9"/> men do a <hi>Rock</hi> at Sea, that they may avoid <hi>ruine</hi> and <hi>ſh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pwrack.</hi>
+            </p>
+            <p>There are two <hi>degrees</hi> of <hi>Schiſme:</hi> The firſt is a <hi>rent<g ref="char:EOLhyphen"/>ing</hi> and dividing in the Church: 'Tis againſt this the <hi>Apoſtles</hi> indignation ariſeth, as you have heard: this, therefore, doubtleſs, in his opinion, whatever <hi>favour</hi> we have for it, was a very <hi>great</hi> ſin: but the <hi>other</hi> is a <hi>rent<g ref="char:EOLhyphen"/>ing</hi> our ſelves, or others <hi>from</hi> the Church. And this is <hi>ſo great</hi> an evil, that 'tis both <hi>ſin</hi> and <hi>puniſhment;</hi> 'tis its own <hi>guilt, ſentence,</hi> and <hi>execution.</hi>
+            </p>
+            <p>If we rent our ſelves from the Body, how do we <note place="margin">Extra Eccleſi<g ref="char:EOLhyphen"/>am nulla Salus.</note> hold the Head? If we depart from the Church where ſhall we finde ſalvation? and what is it to draw back, but to draw back unto perdition? Pardon my <hi>plainneſs,</hi> cenſure not my <hi>charity;</hi> for I only repeat the <hi>Apoſtles Arguments,</hi> which he once uſed upon the <hi>ſame</hi> exhor<g ref="char:EOLhyphen"/>tation: they are <hi>theſe</hi> and ſuch like. To <hi>forſake</hi> the <hi>aſ<g ref="char:EOLhyphen"/>ſembling</hi> of our ſelves together, is to <hi>deſpiſe</hi> the Goſ<g ref="char:EOLhyphen"/>pel, <note place="margin">Heb. 6.</note> is to <hi>ſhame</hi> and <hi>crucifie</hi> Chriſt, is to <hi>prophane</hi> his <hi>Blood,</hi> and <hi>rent</hi> and <hi>tear</hi> his Sacred <hi>Body;</hi> and if thoſe <note place="margin">Heb. 10. 25. to 30.</note> that <hi>deſp<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſed Moſes Law,</hi> died <hi>without mercy,</hi> of how much <hi>ſorer puniſhment ſhall theſe be thought worthy?</hi> to <hi>forſake</hi> the <hi>aſſembling</hi> our ſelves together, is by the A<g ref="char:EOLhyphen"/>poſtles interpretation a <hi>ſi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ni<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>g w<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>fully:</hi> and if we ſin wilfully, by the Apoſtles Argument, there remains no <hi>mere ſacrifice</hi> for ſin: and what then remains (I fear to ſpeak it) a <hi>certain fearful looking for of Judgement</hi> and fiery indignation that ſhall devour the adverſaries; for <note place="margin">Heb. 2. 3. Phil. 4. 1.</note> how ſhall they <hi>eſcape</hi> that neglect (the means) of ſo <hi>great ſalvation?</hi>
+            </p>
+            <p>If there be therefore any <hi>Corſolation in Chriſt</hi> [to be expected in his Church and Ord<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nances, if any <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>omfort</hi> of <hi>love</hi> among Brethren] If any <hi>fellowſhip of the Spi<g ref="char:EOLhyphen"/>rit,</hi>
+               <pb n="14" facs="tcp:103430:10"/>
+[in the Aſſemblies of Gods people]<g ref="char:punc">▪</g> if any <hi>bow<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l of mercies</hi> [towards your <hi>own</hi> and <hi>others</hi> ſouls, towards <hi>us</hi> that <hi>watch</hi> for them, towards this <hi>divided,</hi> diſtreſſed, calamitous <hi>Church</hi> of <hi>England,</hi> and the <hi>General Aſſem<g ref="char:EOLhyphen"/>bly]</hi> Remember ye are <hi>Subjects</hi> of the ſame <hi>Kingdom,</hi> ye are <hi>Children</hi> of the ſame <hi>Houſe, Partners</hi> in the ſame <hi>Fellowſhip, Members</hi> of the ſame <hi>Body,</hi> and that ye have all theſe <hi>Relations</hi> only, or chiefly, in order to <hi>Communion:</hi> let <hi>this minde</hi> then be in you, and rejoyce in the <hi>gates of Sion,</hi> co-habit in the <hi>Courts</hi> of Gods Houſe, and with one <hi>accord,</hi> and one <hi>minde,</hi> preſerve the <hi>Uni<g ref="char:EOLhyphen"/>ty</hi> of the Church, and ſave your ſelves from this <hi>unto<g ref="char:EOLhyphen"/>ward Generation,</hi> dreading to make the leaſt <hi>breach</hi> when a <hi>Torrent</hi> of <hi>Popery</hi> or <hi>Irreligion</hi> threatens daily to break in upon us.</p>
+            <p>So ſad a <hi>proſpect</hi> is in my eye, that were my words <hi>Spirit</hi> and <hi>Life,</hi> or had I the <hi>Tongue of Men and Angels;</hi> could I utter power and <hi>effects,</hi> or pronounce a <hi>fia<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> like to <hi>Gods:</hi> I ſay, if our <hi>diviſions</hi> continue or increaſe, ſo <hi>black</hi> a proſpect is in my eye (that pretend not to ſee a<g ref="char:EOLhyphen"/>far off) that I ſhould imploy all my <hi>ſtrength</hi> and Orato<g ref="char:EOLhyphen"/>ry here, to adviſe and perſwade you all, to Worſhip the Lord Jeſus Chriſt in the <hi>Unity</hi> and fellowſhip of his <hi>Church.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Obj. </seg>
+               </label> BUt why ſo <hi>earneſt?</hi> eſpecially with <hi>us? we</hi> could not hear your <hi>reproof,</hi> did not our preſence <hi>con<g ref="char:EOLhyphen"/>fute</hi> it? or <hi>receive</hi> this counſel, but by ſhewing we need it <hi>not:</hi> do not we attend the <hi>Word</hi> and <hi>Prayer?</hi> do we <hi>forſake</hi> the <hi>General Aſsembly?</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> So far you have <hi>run well;</hi> yet you muſt be remem<g ref="char:EOLhyphen"/>bred (I am ſorry you <hi>muſt)</hi> that the <hi>Apoſtles fellowſhip</hi> conſiſted not only in <hi>Doctrine</hi> and <hi>Prayers,</hi> but in
+<pb n="15" facs="tcp:103430:10"/> 
+               <hi>BREAKING OF BREAD.</hi> 'Tis ſad, that the <hi>Commu<g ref="char:EOLhyphen"/>nion</hi> 
+               <note place="margin">Application <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ial.</note> ſhould be the great matter of our <hi>Diviſion:</hi> but the <hi>Text</hi> and our <hi>preſent</hi> condition aſſure us, that by <hi>BREAKING of Bread</hi> we may be ONE BODY again: and now you may ſee my MARK.</p>
+            <p>
+               <hi>Three</hi> things, eſpecially, give life and vigor to an <hi>Ar<g ref="char:EOLhyphen"/>gument;</hi> the <hi>ſeaſonableneſs</hi> of it, the <hi>neceſſity</hi> of it, and the <hi>capacity</hi> or diſpoſition of the perſons to whom it is addreſſed: and do not all <hi>theſe</hi> conſpire to <hi>quicken</hi> a moſt <hi>earneſt</hi> application to you in this point of the <hi>Sa<g ref="char:EOLhyphen"/>crament?</hi>
+            </p>
+            <p n="1">1. For the <hi>Seaſon, ſuch</hi> a diſcourſe is never <hi>miſ<g ref="char:punc">▪</g>timed,</hi> where the <hi>Communion</hi> is ſo <hi>frequently</hi> adminiſtred; be<g ref="char:EOLhyphen"/>ſides, its <hi>monthly</hi> courſe is now at hand: but, alas, ex<g ref="char:EOLhyphen"/>pecting a <hi>ſlender</hi> appearance, with ſadneſs enough, un<g ref="char:EOLhyphen"/>becoming ſuch a <hi>feaſt,</hi> as it is wont to do.</p>
+            <p n="2">2. Therefore, the <hi>neceſsity</hi> of ſuch an Argument, is too too evident; yet it is not without its <hi>advantage;</hi> for herein I need not ſhoot at <hi>Rovers,</hi> as in other mat<g ref="char:EOLhyphen"/>ters: I have the <hi>Mark</hi> before me, and I am ſure to <hi>hit</hi> it. I am to <hi>reaſon</hi> with <hi>perſons,</hi> and to endeavour to <hi>perſwade thoſe</hi> very <hi>perſons,</hi> to <hi>practiſe</hi> a duty of great moment, who have <hi>ſadly</hi> and <hi>long neglected</hi> the <hi>ſame</hi> duty: I wiſh there be not <hi>hundreds</hi> of ſuch in my <hi>eye.</hi>
+            </p>
+            <p n="3">3. Yet, of your <hi>capacity</hi> and well <hi>diſpoſedneſs</hi> to re<g ref="char:EOLhyphen"/>ceive ſatisfaction I cannot doubt: I know you are not of the <hi>fierce</hi> and giddy, but you are of the <hi>moderate part</hi> of the <hi>City,</hi> in <hi>whom</hi> there is but little or nothing want<g ref="char:EOLhyphen"/>ing, to make you <hi>intire, and la<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>king nothing,</hi> in the fel<g ref="char:EOLhyphen"/>lowſhip of the Church, excepting only this <hi>one thing neceſſary,</hi> the receiving the <hi>Lords Supper:</hi> You are <hi>wil<g ref="char:EOLhyphen"/>ling</hi> already, and I truſt, that with a little <hi>perſwaſion</hi> and
+<pb n="16" facs="tcp:103430:11"/> 
+               <hi>meditation,</hi> and <hi>Gods bleſſing</hi> upon them, you will be <hi>obedient in all things.</hi>
+            </p>
+            <p>Th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, I have much <hi>encouragement</hi> to proceed, but alas, wherewithal ſhall I <hi>perſwade?</hi>
+            </p>
+            <p n="1">1. ARE YOU NOT CHRISTIANS? are you not bound by the ſacred Vow of your <hi>Infancy,</hi> that <hi>Bo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d</hi> of God upon your <hi>So<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l?</hi> are you not bound to <hi>obey</hi> your <hi>Lord,</hi> and to renounce all carnal and ſpiritual <hi>temptations</hi> to the contrary? or is not the <hi>command</hi> of our Lord, again and again, <hi>Do this,</hi> do this in <hi>remem<g ref="char:EOLhyphen"/>brance</hi> of me? hath he ſpoken any thing more <hi>plainly?</hi> or commanded any thing ſo <hi>expreſly?</hi> ſhew it if you can; I mean, touching his <hi>outward</hi> worſhip.</p>
+            <p>What is the matter then? is there no <hi>fear</hi> of his <hi>command,</hi> who ſaith, <hi>Do this?</hi> no <hi>lov<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> to his <hi>Perſon,</hi> who ſaith, do it in <hi>remembrance</hi> of me? is there no <hi>faith</hi> left in his <hi>Promiſes</hi> and Preſence annex'd to his <hi>Worſhip</hi> and Ordinance? is there no more <hi>conſcience</hi> of duty? no more <hi>comfort</hi> in performing it, or <hi>danger</hi> in neglecting it? Conſider, I beſeech you, that the <hi>Lord</hi> of the <hi>Feaſt</hi> was as <hi>truly</hi> provoked (as appears in the <hi>ſtory)</hi> by the <hi>omiſsion</hi> and the ſlight <hi>excuſes</hi> of thoſe that were invited to his <hi>Supper,</hi> as by the <hi>unpreparedneſs</hi> of him that came without a <hi>Wedding Garment,</hi> and a whole <hi>City,</hi> for contriving to <hi>depiſe</hi> the gracious invitation and <hi>Feaſt</hi> of the Goſpel, was made as <hi>Sodom,</hi> and like un<g ref="char:EOLhyphen"/>to <note place="margin">Matth. 22. 7.</note> 
+               <hi>Gomorrah.</hi>
+            </p>
+            <p>Certainly, the <hi>Body</hi> and <hi>Blood</hi> of Chriſt is the provi<g ref="char:EOLhyphen"/>ſion of the Goſpel <hi>Feaſt;</hi> and this is, eſpecially <hi>ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rved</hi> up, in that Ordinance which is called the <hi>Communion</hi> of his <hi>Body and Blood,</hi> and the <hi>Lords Supper.</hi>
+            </p>
+            <p n="2">
+               <pb n="17" facs="tcp:103430:11"/> 2. ARE YOU NOT MEMBERS OF THE CHURCH of Chriſt, wherein you <hi>con<g ref="char:EOLhyphen"/>ſtantly</hi> hear his <hi>word</hi> and commands? yea, do you not, by your daily <hi>profeſsion,</hi> do you not ſay, you will <hi>obey</hi> him? you <hi>know</hi> the Law as you are <hi>Chr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſtians<g ref="char:punc">▪</g>
+               </hi> you <hi>ac<g ref="char:EOLhyphen"/>knowledge</hi> your <hi>Allegiance,</hi> and promiſe <hi>obedience</hi> by the <hi>prof<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſsion</hi> of the Church, of which you are <hi>mem<g ref="char:EOLhyphen"/>bers:</hi> you know your <hi>Maſters will,</hi> and <hi>ſay</hi> you will <hi>do</hi> it. but is it <hi>done?</hi> you ſay, <hi>Lord Lord,</hi> but deſpiſe his <hi>Communion:</hi> you cry the <hi>Temple</hi> of the Lord, the <hi>Tem<g ref="char:EOLhyphen"/>ple</hi> of the Lord, but refuſe <hi>Fellowſhip</hi> with its <hi>Aſsemblys.</hi> Indeed it is not plain <hi>Rebellion,</hi> but here is <hi>Diſobedience</hi> with the <hi>witneſs,</hi> and the horrid aggravation of <hi>Hy<g ref="char:EOLhyphen"/>pocriſie.</hi>
+            </p>
+            <p>Beſides, the very <hi>nature</hi> of the Church of which you are <hi>members,</hi> is, as you have heard, an <hi>Aſsembly,</hi> and a Society: Now the direct and immediate <hi>expreſsion</hi> of a Society, is <hi>communion</hi> and fellowſhip: and you know, that Communion in <hi>this ordinance,</hi> is moſt ſig<g ref="char:EOLhyphen"/>nally and expreſly <hi>the Communion of the Chu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ch:</hi> nei<g ref="char:EOLhyphen"/>ther, laſtly, can it be denied, that by <hi>Communion</hi> with the Church, eſpecially in <hi>this ordinance,</hi> we have com<g ref="char:EOLhyphen"/>munion alſo with Chriſt himſelf in all the <hi>ben<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fits</hi> of his <hi>Body</hi> and <hi>Blood.</hi>
+            </p>
+            <p>Conſequently, by <hi>not communicationg</hi> with the Church in <hi>this</hi> or<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>inance, we do ſo far w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nt <hi>commun<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>on with Chriſt;</hi> we do ſo far <hi>divide</hi> from the <hi>Church</hi> of Chriſt, and <hi>blot</hi> out the <hi>Mark,</hi> I mean, the <hi>moſt v<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>lent</hi> character of our own <hi>Church<g ref="char:punc">▪</g>Member<g ref="char:punc">▪</g>ſhip,</hi> allowing our ſelves too in <hi>that</hi> very ſin, we ſo much pretend to <hi>abhor;</hi> (I muſt be plain and ſpeak out) the ſin of <hi>Schiſm.</hi>
+            </p>
+            <pb n="18" facs="tcp:103430:12"/>
+            <p> For what is <hi>Sch<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſm<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> but a <hi>b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eak<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ng</hi> the <hi>fellowſh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>p</hi> of the Church without <hi>juſt Cauſe?</hi> 'tis <hi>total,</hi> when men <hi>renounce</hi> it <hi>wholly:</hi> but, doubtleſs, 'tis ſo in a very <hi>great part,</hi> when we <hi>deny</hi> to communicate with it in that moſt <hi>ſignal mean</hi> of communion with it, the <hi>Lords Su<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>per.</hi> Yea, let it be ſeriouſly and <hi>ſadly</hi> con<g ref="char:EOLhyphen"/>ſidered, if you, as I fear too <hi>many</hi> do; I ſay, if you <hi>refuſe</hi> our <hi>Communion,</hi> becauſe you would not <hi>joyn</hi> with the Church, (whatever <hi>otherwaies</hi> you do <hi>actually</hi> joyn with us, yet) in your own <hi>Intention,</hi> you are not only guilty of a <hi>Schiſme</hi> with reſpect, to that <hi>particu<g ref="char:EOLhyphen"/>lar</hi> Congre<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ation, to which you belong, but (our fel<g ref="char:EOLhyphen"/>lowſhip with a <hi>particular</hi> Church, being the <hi>mean</hi> and Bond, by which we have Communion with the Church <hi>Univerſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l)</hi> you thus alſo <hi>ſeparate</hi> from the <hi>Catholick</hi> Church, and <hi>General Aſsembly.</hi>
+            </p>
+            <p>LAſtly, Let me <hi>ſpeak</hi> unto you as <hi>unto wiſe men,</hi> and <hi>Judge ye what I ſay;</hi> and <hi>what</hi> is that which may <hi>perſwade</hi> a PRUDENT man to <hi>go</hi> ON, but that he hath BEGUN well: and that there is no <hi>OTHER WAY</hi> for him: that, what is <hi>behinde,</hi> is regular to his <hi>OWN PRINCIPLES</hi> of Right and Juſtice: and that his proceeding may greatly <hi>advantage</hi> both <hi>him<g ref="char:EOLhyphen"/>ſelf</hi> and his <hi>generation.</hi>
+            </p>
+            <p>If <hi>all</hi> theſe fail, I know not with what <hi>Arguments</hi> I ſhould deal with you: but I cannot but hope <hi>better things,</hi> would you <hi>wiſely</hi> conſider, that it is your <hi>own Caſe,</hi> that is ſtrengthned with all the <hi>particulars</hi> men<g ref="char:EOLhyphen"/>tioned.</p>
+            <p n="1">1. You have <hi>begun well:</hi> neither can it harbour in a ſober thought, that you are not <hi>already embodied</hi> with
+<pb n="19" facs="tcp:103430:12"/> us, or no Members of the <hi>Church</hi> of <hi>England:</hi> 'tis ac<g ref="char:EOLhyphen"/>knowledged but now, that your own <hi>intentions</hi> to ſepa<g ref="char:EOLhyphen"/>rate from us, do make you <hi>guilty</hi> of <hi>ſeparation</hi> in your <hi>own minde,</hi> and intention; but you may be guilty of <hi>that ſin,</hi> both in <hi>intention,</hi> and <hi>affection,</hi> that you never yet <hi>actually</hi> committed: a <hi>Miſtake</hi> in your ſelves, cannot make that <hi>not</hi> to be, which <hi>really</hi> is: neither doth your <hi>abſtaining</hi> from this <hi>one Ordinance, n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>llifie</hi> your Communion with us, in the <hi>reſt,</hi> or your <hi>viſible Church-Memberſhip</hi> with us. <hi>Thoughts</hi> cannot <hi>void</hi> the <hi>natural</hi> effect of <hi>Actions.</hi>
+            </p>
+            <p>You were at firſt, <hi>Baptized into one Body with us,</hi> 
+               <note place="margin">1 Cor. 12. 13</note> and 'tis far from you, to <hi>renounce that</hi> Baptiſm: by <hi>your</hi> means, your <hi>children</hi> alſo, are ſtill preſented to <hi>God</hi> and our <hi>Church,</hi> in the <hi>ſame</hi> Ordinance, and are Ba<g ref="char:EOLhyphen"/>ptized as <hi>you</hi> were. You joyn with our <hi>Prayers,</hi> and conſtantly hear our <hi>Sermons,</hi> and attend upon our <hi>Publick Aſſemblies;</hi> and indeed, in a <hi>great part</hi> you <hi>make</hi> them up; only, you fail to <hi>compleat all,</hi> by <hi>re<g ref="char:EOLhyphen"/>ceiving</hi> the Sacrament of the <hi>Lords Supper.</hi> But do you abſtain from <hi>this,</hi> leſt you ſhould <hi>joyn</hi> with a <hi>wicked people?</hi> how <hi>thin</hi> a <hi>cheat</hi> would you put upon your ſelves? for <hi>Gods</hi> ſake, the <hi>Churches</hi> ſake; yea for your own <hi>Credit</hi> and Reputation, <hi>beguile</hi> not <hi>your ſelves</hi> into ſo many <hi>miſchiefs,</hi> upon ſo <hi>weak</hi> a ſhift, upon <hi>no ground</hi> at all: ye have done well, in all the <hi>reſt,</hi> and you have the <hi>ſame re<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſon</hi> to receive the <hi>Sa<g ref="char:EOLhyphen"/>crament.</hi> Proceed, proceed like <hi>wiſe men,</hi> to <hi>perfect</hi> what you have ſo well <hi>begun,</hi> ſo far ingaged in. <hi>Go on and proſper:</hi> For,</p>
+            <p n="2">2. There is <hi>no other way</hi> for you. <hi>God</hi> himſelf hath <hi>hedged</hi> up your way: he <hi>commands</hi> you to do
+<pb n="20" facs="tcp:103430:13"/> 
+               <hi>this alſo:</hi> he <hi>threatens,</hi> if you turn aſide, or <hi>draw back:</hi> you have the encouragement of his many <hi>promiſes</hi> to <note place="margin">2 Cor. 7. 1.</note> 
+               <hi>p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rfect holin<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſs through the fear of God,</hi> and the <hi>Saints</hi> in all ages, that have gone to heaven the <hi>ſame</hi> way, as a <hi>cloud of witneſses,</hi> (as in the Grecian Games) are <hi>round</hi> about you, and leave no <hi>other</hi> way open to you, but the <hi>race that is ſet before you.</hi> 
+               <note place="margin">Heb. 12. 1.</note>
+            </p>
+            <p>The <hi>law</hi> of <hi>man</hi> alſo, obligeth and tyes you hard to <hi>this</hi> duty, it hath made ſpecial <hi>proviſion</hi> in this caſe: it ſeverely <hi>threatens</hi> your neglect and diſobedience in this kinde. If you have not felt the <hi>force</hi> of this <hi>Law,</hi> do not think the Law is <hi>weak</hi> and <hi>feeble:</hi> do not miſ-inter<g ref="char:EOLhyphen"/>pret the <hi>favour,</hi> and patience, or <hi>long-ſuffering</hi> of your <hi>Rulers,</hi> to turn their <hi>grace</hi> into <hi>wantonn<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſs;</hi> both the <hi>Canon</hi> Law, and the <hi>Statute</hi> Law, the Laws of the <hi>Church,</hi> and of the <hi>Land, directly</hi> require you to re<g ref="char:EOLhyphen"/>ceive this <hi>Sacrament,</hi> at leaſt <hi>three times</hi> a year: and the <hi>penalty</hi> of them, if you do not (and cannot give <hi>good reaſon</hi> for ſuch omiſſion) I need not tell you, is ve<g ref="char:EOLhyphen"/>ry <hi>ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>vere</hi> in <hi>this,</hi> as in ſome <hi>other</hi> ſpecial caſes.</p>
+            <p>Perhaps, you <hi>hoped</hi> that <hi>theſe</hi> Laws would have been <hi>repealed,</hi> or have had their <hi>force</hi> abated; but in <hi>vain:</hi> if you are <hi>wiſe</hi> and prudent, you now know 'tis in <hi>vain</hi> to hope it. Perhaps, the <hi>fear</hi> of the <hi>Laws</hi> (you beſt know your own hearts) hath been <hi>ſo</hi> far <hi>ſanctified</hi> to you as to work you to comply ſo <hi>far</hi> as you do; but you muſt know (I ſpeak to <hi>wiſe men)</hi> that unleſs you take one ſtep <hi>farther,</hi> and <hi>receive the Sacrament,</hi> your la<g ref="char:EOLhyphen"/>bour and <hi>deſign</hi> is ſo far <hi>loſt;</hi> you are ſtill in the <hi>ſame danger,</hi> and the <hi>ſeverity</hi> of the <hi>Law</hi> is ſtill againſt you; and without this one thing more, which is therefore, your <hi>ſafety,</hi> as well as your <hi>duty,</hi> no <hi>other w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y</hi> can
+<pb n="21" facs="tcp:103430:13"/> poſſibly be found, by the wit of man (as things now are) <hi>to eſcape it.</hi> Yea,</p>
+            <p>Indeed, <hi>you</hi> have <hi>left</hi> no <hi>other</hi> way for <hi>your ſelves:</hi> ye are <hi>Come to the General Aſſembly,</hi> ye are got many <hi>ſtages</hi> beyond <hi>others: theſe</hi> ye have <hi>left</hi> be<g ref="char:EOLhyphen"/>hind you; theſe ye have <hi>loſt.</hi> Now, if you <hi>proceed</hi> not, and receive the Sacrament with us, you are <hi>ſhort</hi> of <hi>us,</hi> and the <hi>Law;</hi> ye looſe your <hi>labour</hi> and your <hi>ſelves.</hi>
+            </p>
+            <p>What then <hi>remains,</hi> but that you <hi>haſten</hi> onward, to <hi>us,</hi> that are <hi>before</hi> you; who have <hi>both</hi> our <hi>Arms</hi> ready to receive and <hi>imbrace</hi> you: to <hi>Jeſus Chriſt</hi> in <hi>this</hi> bleſſed Ordinance, who <hi>invites,</hi> and <hi>pre<g ref="char:EOLhyphen"/>pares,</hi> and <hi>expects</hi> you: and the <hi>blood of ſprinkling</hi> which ſpeaks <hi>better</hi> things.</p>
+            <p n="3">3. IS not the matter to which I perſwade you, Regular alſo to your <hi>own principles?</hi> and the <hi>Doctrine you have received?</hi> or is there in<g ref="char:EOLhyphen"/>deed, any <hi>Solid</hi> reaſon, either from <hi>without</hi> or from <hi>within you,</hi> why you <hi>ſhould not</hi> Communicate <hi>with us?</hi> your ſelves <hi>being Jdges,</hi> all that can be <hi>pre<g ref="char:EOLhyphen"/>tended</hi> againſt it, is either, the <hi>Corruption</hi> of the <hi>Wor<g ref="char:EOLhyphen"/>ſhip</hi> or the <hi>Worſhippers:</hi> let me beſeech you to <hi>weigh</hi> them <hi>both,</hi> in their <hi>whole ſtrength</hi> with your own <hi>reaſon; look upon</hi> them in your own <hi>light,</hi> and I doubt not to pronounce, you will be <hi>aſhamed</hi> of them <hi>both.</hi>
+            </p>
+            <p n="1">1. <hi>All</hi> that is excepted againſt, in the <hi>Worſhip</hi> or Adminiſtration, (as a <hi>Bar</hi> to your receiving) is, that <hi>kneeling</hi> is required: but for ſuch a <hi>ſhadow,</hi> what <hi>wiſe<g ref="char:EOLhyphen"/>man</hi> would looſe the <hi>Subſtance?</hi> you know, that the
+<pb n="22" facs="tcp:103430:14"/> 
+               <hi>geſture</hi> in it ſelf is <hi>lawful</hi> and reverent, and what rea<g ref="char:EOLhyphen"/>ſon can be given, why we ſhould not <hi>obey Authori<g ref="char:EOLhyphen"/>ty,</hi> by worſhipping God, after a <hi>lawful</hi> and <hi>reverent</hi> manner?</p>
+            <p>Yea, conſider, have you not <hi>learned,</hi> that the <hi>Second Commandment,</hi> requires an obſervance of all the <hi>moral</hi> and <hi>poſitive</hi> worſhip of God; and doth as well <hi>require,</hi> that we ſhould <hi>bow down</hi> and worſhip the <hi>true God,</hi> in his own ordinances, as <hi>forbid</hi> the worſhipping and <hi>bow<g ref="char:EOLhyphen"/>ing down</hi> to <hi>Idols?</hi> Certainly, here is warrant to <hi>bow down to God,</hi> when we worſhip him: and if <hi>kneel<g ref="char:EOLhyphen"/>ing</hi> be <hi>bowing down,</hi> and <hi>this</hi> Sacrament be a part of <hi>worſhip,</hi> we have plain warrant to <hi>Kneel at the Sa<g ref="char:EOLhyphen"/>crament.</hi>
+            </p>
+            <p>Will you ſay that <hi>kneeling</hi> is a <hi>fit poſture</hi> only when we <hi>pray?</hi> this may well be queſtion'd; yet, let it be heeded, there is <hi>prayer</hi> uſed, when you <hi>receive</hi> the Sacrament: the <hi>Miniſter</hi> prays openly, that <hi>the body and blood of Chriſt may preſerve thy body and ſoul to ever<g ref="char:EOLhyphen"/>laſting life,</hi> while he <hi>gives</hi> it; and certainly, every <hi>wor<g ref="char:EOLhyphen"/>thy</hi> receiver, <hi>prays</hi> for the <hi>grace,</hi> while he <hi>receives</hi> the <hi>ſigns.</hi>
+            </p>
+            <p>However, what reaſon can ſpite it ſelf<g ref="char:punc">▪</g>offer, why we may not lawfully and laudably <hi>receive kneeling;</hi> the <hi>ſame</hi> grace, we <hi>ask</hi> kneeling? and <note n="*" place="margin">This Sa<g ref="char:EOLhyphen"/>crament is the Euchariſt.</note> 
+               <hi>give thanks,</hi> as well as <hi>beg</hi> upon our <hi>knees;</hi> they <hi>both</hi> being parts of that one <hi>ordinance, viz. Prayer;</hi> where in, all acknow<g ref="char:EOLhyphen"/>ledge, it is <hi>fitteſt,</hi> if we may with <hi>conveniency, kneel.</hi>
+            </p>
+            <p>But why do I <hi>create ſcruples?</hi> the <hi>only one,</hi> of the old <hi>puritans,</hi> and <hi>Prebyterians,</hi> in <hi>this point,</hi> was; leaſt they <hi>ſhould,</hi> or at leaſt ſhould <hi>ſeem,</hi> to <hi>worſhip the</hi>
+               <pb n="23" facs="tcp:103430:14"/> 
+               <hi>Hoſt.</hi> You know, this was the <hi>ſtrength</hi> of the <hi>Objection?</hi> but is not this <hi>totally</hi> and perfectly removed now? Can you imagine, that <hi>any o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e</hi> of the old <hi>Puritans,</hi> would <hi>now</hi> refuſe to receive <hi>kneeling?</hi> read their <hi>books,</hi> and <hi>Judge Righteouſly.</hi>
+            </p>
+            <p>Indeed, there was <hi>complaint,</hi> that the <hi>Declaration</hi> of the <hi>reaſon,</hi> why <hi>kneeling</hi> is <hi>required</hi> in the Sacrament, was left out of the <hi>former L<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>turgies;</hi> but it is <hi>now in<g ref="char:EOLhyphen"/>ſerted,</hi> and that complaint is <hi>anſwered.</hi> We are aſſu<g ref="char:EOLhyphen"/>red, by the Churches <hi>publick act</hi> which is alſo taken into the <hi>body of our Law,</hi> and joyned to this <hi>very office</hi> of the Sacrament, that <hi>ſuch Idolatry,</hi> as <hi>kneeling</hi> to the <hi>elements,</hi> is not in the leaſt <hi>intended,</hi> but <hi>abominated</hi> and <hi>abhorr'd;</hi> and that in ſo <hi>plain</hi> and direct terms, as have left no place for <hi>Scruple</hi> or <hi>Cavil.</hi>
+            </p>
+            <p>Now, <hi>ask</hi> your ſelves, is not <hi>kneeling</hi> a very humble and <hi>fit geſture</hi> for us, in <hi>Gods preſence,</hi> eſpecially when we <hi>pray</hi> to him? do not we <hi>pray,</hi> even while we <hi>receive</hi> the Sacrament? do not we exſpect to receive a <hi>bleſsing</hi> from that Majeſty, to whom we pray, <hi>kneeling?</hi> is not the <hi>Euchariſt</hi> a <hi>Thankſgiving,</hi> and <hi>that,</hi> a part of <hi>Pray<g ref="char:EOLhyphen"/>er,</hi> which is <hi>fitly</hi> performed, <hi>Kneel<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ng?</hi> however, is it not a <hi>lawful geſture,</hi> and required of us by <hi>lawful authority?</hi> and have not <hi>thoſe</hi> very <hi>Powers,</hi> that <hi>require</hi> kneeling, taken away all fear of <hi>Idolatry</hi> and <hi>Bread Worſhip's,</hi> have we therefore any <hi>ſhadow</hi> left us? or any <hi>ex<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uſe?</hi> ſhall we <hi>any longer</hi> neglect ſo <hi>great</hi> a duty? or dare we ſay, we <hi>may</hi> not, or we <hi>fear</hi> we may not <hi>receive</hi> it, <hi>Kneeling.</hi>
+            </p>
+            <p n="2">2. But the <hi>Goliah</hi> is at hand: the <hi>onely objection,</hi> ſo far as I can learn, is now taken from the <hi>Worſhippers,</hi> 'tis complain'd, <hi>Diſcipline</hi> is <hi>Neglected;</hi> the <hi>Profane</hi>
+               <pb n="24" facs="tcp:103430:15"/> and <hi>Scandalous</hi> are <hi>admitted</hi> to the Sacrament: and thus the <hi>Church</hi> is <hi>Corrupted.</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> Were <hi>all this</hi> admitted, yet, <hi>we may therefore ſeparate,</hi> is no good <hi>Conſequence</hi> in your own <hi>Logick:</hi> but give me leave a little.</p>
+            <p>Was not the <hi>Church</hi> of the <hi>Jews,</hi> that Crucified <hi>their Lord</hi> as <hi>Corrupt</hi> as <hi>ours,</hi> eſpecially in the <hi>Rulers</hi> of it? Yet <hi>Chriſt</hi> himſelf held fellowſhip with <hi>them,</hi> and was a <hi>Miniſter of the Circumciſion,</hi> he <hi>d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tects</hi> their <hi>Hy<g ref="char:EOLhyphen"/>pocriſie,</hi> and <hi>cruelty,</hi> yea their <hi>leaven</hi> of <hi>falſe Doctrine</hi> and <hi>Superſtitious vanities;</hi> but never perſwades to <hi>ſeparat on</hi> (only from their <hi>ſins,</hi> not) from the <hi>Wor<g ref="char:EOLhyphen"/>ſhip</hi> of God among them. The Church of <hi>Corinth,</hi> though exceedingly <hi>Corrupt,</hi> partly in <hi>Doctrine;</hi> many (at leaſt) queſtioning the <hi>Reſurrection:</hi> partly in <hi>diſci<g ref="char:EOLhyphen"/>pline;</hi> not caſting out that <hi>wicked perſon;</hi> but chiefly, in <hi>Manners, Diviſions</hi> and <hi>Diſorders</hi> in Gods worſhip, <hi>theſe</hi> things the Apoſtle <hi>obſerved;</hi> particularly <hi>wrote againſt.</hi> Yea the <hi>point of ſeparation</hi> came in his way (2 <hi>Cor.</hi> 6. <hi>ult.)</hi> and he calls upon them to <hi>come out</hi> from <hi>Idolaters</hi> and <hi>ſeparate</hi> from them; but not a word of <hi>ſeparation</hi> from ſo <hi>wicked</hi> a <hi>Church;</hi> he ſharply <hi>re<g ref="char:EOLhyphen"/>proves</hi> their <hi>profaneneſs, ſeverely exhorts every one</hi> to his <hi>duty;</hi> but gives leave to <hi>none</hi> to <hi>ſeparate.</hi>
+            </p>
+            <p>Indeed, he chargeth them <hi>not to Company</hi> with the <hi>ſcandalous,</hi> and with <hi>ſuch a one no not to eat;</hi> and perhaps <hi>this eating,</hi> may be ſtretched to ſignifie eating at the <hi>Sacrament:</hi> but on <hi>whom</hi> doth he lay <hi>this charge:</hi> and <hi>how</hi> is it to be obſerved? he doth not call to a few of the <hi>beſt</hi> and <hi>p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>reſt,</hi> and adviſe them to forſake ſo wicked an aſſembly; but he <hi>ſpeaks</hi> to the <hi>whole</hi> Church, and directs them, how to <hi>avoid</hi> 
+               <note place="margin">1 <hi>Co<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi> 5.</note>
+               <pb n="25" facs="tcp:103430:15"/> that <hi>wicked</hi> company: by <hi>caſting them out of the Church,</hi> and <hi>delivering</hi> them to <hi>Satan.</hi> If any, that is <hi>called a brother</hi> be a <hi>fornicator,</hi> &amp;c. <hi>with ſuch a one no not to eat;</hi> ye <hi>judge</hi> thoſe <hi>that</hi> are within: <hi>Therefore put away</hi> 
+               <note place="margin">Ult. v.</note> 
+               <hi>from you that wicked perſon.</hi> 'Tis not, <hi>therefore ſeparate</hi> from the Congregation no <hi>moral</hi> wickedneſs, can juſtifie <hi>this.</hi> This were to throw away all <hi>means</hi> of <hi>reformation,</hi> and by our <hi>diviſions,</hi> to let all <hi>run</hi> to <hi>ruine</hi> and deſtru<g ref="char:EOLhyphen"/>ction: but <hi>therefore,</hi> put away <hi>from among</hi> you; every one doing <hi>his part,</hi> in his place, for the <hi>purging</hi> the Church of <hi>corruption,</hi> and <hi>caſting out</hi> of the <hi>Scandalous,</hi> if they will not <hi>reform.</hi>
+            </p>
+            <p>You know, this is the <hi>only courſe</hi> allowed by <hi>God;</hi> all <hi>other</hi> wayes of <hi>reforming</hi> are tricks of our own devi<g ref="char:EOLhyphen"/>ſing; and hitherto, the <hi>ſucceſs</hi> hath been anſwerable: the <hi>fooliſhneſs of God is wiſer than men.</hi>
+            </p>
+            <p>But ſeeing we are ſo <hi>near</hi> it, let me be <hi>plain</hi> with you; and put it home upon your <hi>Conſcience:</hi> if our Church be ſo very <hi>corrupt,</hi> and <hi>diſcipline</hi> be not <hi>exe<g ref="char:EOLhyphen"/>cuted,</hi> pray where lies the <hi>fault?</hi> do not you know, that you muſt firſt tell your <hi>brother</hi> of his <hi>fault</hi> (if not a <hi>pub<g ref="char:EOLhyphen"/>lick</hi> ſcandal) <hi>This</hi> you <hi>do</hi> not. However, you know the <hi>Officers</hi> muſt proceed, <hi>Secundum allegata &amp; pro<g ref="char:EOLhyphen"/>bata,</hi> upon <hi>complaint</hi> and <hi>evidence; you,</hi> if you <hi>know</hi> ſuch perſons in the Congregation, you muſt <hi>tell the Church.</hi> This <hi>you do not. Judge your ſelves;</hi> cenſure not others, the ſin <hi>lies</hi> at your <hi>own door,</hi> not altogether at the <hi>Churches,</hi> or your <hi>Miniſters.</hi> Do but your <hi>duty</hi> faithfully, and who knows but the <hi>Church</hi> may be <hi>re<g ref="char:EOLhyphen"/>formed?</hi> however, that it <hi>is not,</hi> is firſt, <hi>your</hi> fault, and till <hi>you</hi> have done your <hi>duty,</hi> you have <hi>leaſt</hi> cauſe to <hi>complain.</hi> Certainly, <hi>endeavours</hi> of <hi>reformation</hi>
+               <pb n="26" facs="tcp:103430:16"/> in your place, is <hi>your</hi> duty; but <hi>ſeparation</hi> a <hi>complica<g ref="char:EOLhyphen"/>ted ſin.</hi>
+            </p>
+            <p>
+               <hi>Thus,</hi> you have found a way to forſake your <hi>duty</hi> in the Communion of the Church, and to have fellow<g ref="char:EOLhyphen"/>ſhip with it, <hi>only</hi> in its <hi>ſin.</hi> You your ſelves <hi>connive</hi> at wickedneſs, and then charge your <hi>Miniſter</hi> and the <hi>Church</hi> with your own crime, and give occaſion to your ſelves to <hi>take offence</hi> and be gone. Is this <hi>fair</hi> or equal dealing? is the <hi>complaint</hi> reaſonable? or the ground of ſeparation ſound and ſollid? yea, you know the contrary, and I would believe you are <hi>aſhamed</hi> of it. You know, though <hi>they</hi> do not their duty, you muſt not omit <hi>yours:</hi> you know ('tis your own <hi>rule</hi> and light) that if you are <hi>prepar'd</hi> your ſelves, you do not communicate with the wickedneſs of <hi>unworthy</hi> recei<g ref="char:EOLhyphen"/>vers: you know, if you have done <hi>your part,</hi> the <hi>Go<g ref="char:EOLhyphen"/>vernours</hi> muſt anſwer for corruption in <hi>diſcipline:</hi> You know, that corruption in <hi>manners</hi> cannot <hi>juſtifie</hi> a <hi>ſepa<g ref="char:EOLhyphen"/>ration,</hi> or a refuſal to joyn with the Church in <hi>any</hi> Or<g ref="char:EOLhyphen"/>dinance of God. You know, that ſuch refuſal or ſepa<g ref="char:EOLhyphen"/>ration is <hi>ſinful,</hi> is <hi>ſchiſmatical:</hi> this <hi>you know,</hi> all this is according to your own <hi>principle.</hi>
+            </p>
+            <p>Give me leave to <hi>reduce</hi> the Argument, and I have done with it. <hi>Schiſme</hi> is a <hi>forſaking</hi> of the Communion of the Church, without <hi>juſt</hi> ground. This you ac<g ref="char:EOLhyphen"/>knowledge.</p>
+            <p>To refuſe to <hi>receive the Sacrament,</hi> becauſe of the <hi>wickedneſs</hi> of the Members of the Church, is to <hi>for<g ref="char:EOLhyphen"/>ſake</hi> the Communion of the Church without <hi>juſt ground.</hi> This alſo you acknowledge 'Tis indeed, no juſt ground in the <hi>Scripture</hi> or the Judgment of the <hi>Church</hi> in any age before us: or in the opinion of the old
+<pb n="27" facs="tcp:103430:16"/> 
+               <hi>Non-conformiſts,</hi> or the late <hi>Preſbyterians,</hi> for which I appeal to all their own <hi>Books,</hi> and leave you to remem<g ref="char:EOLhyphen"/>ber the <hi>many years Sermons</hi> heretofore out of this very <hi>pla<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e,</hi> to confirm it.</p>
+            <p>Now what remains? but, if you continue to ref<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſe to receive the Communion with us upon <hi>th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s g<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ound,</hi> becauſe our Church is <hi>Corrupt,</hi> according to the <hi>Sc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<g ref="char:EOLhyphen"/>pture, Antiquity,</hi> the Judgment of your <hi>Brethren,</hi> and your own <hi>principles,</hi> you thus continue in <hi>ſin,</hi> and in the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>in of <hi>Schiſme,</hi> which God forbid.</p>
+            <p>
+               <hi>Remember therefore how you have received, and heard,</hi> 
+               <note place="margin">
+                  <hi>R<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>v<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>l.</hi> 3.</note> 
+               <hi>and hold faſt;</hi> and <hi>repent</hi> of your folly and eaſineſs to contradict your <hi>principles</hi> with your <hi>practice;</hi> not con<g ref="char:EOLhyphen"/>ſidering you did ſo: be not ſtill beguiled to ſo ſtrong a courſe of <hi>keeping</hi> with a party, by <hi>leaving</hi> and going from its <hi>Doctrine,</hi> or of keeping your <hi>Conſcience,</hi> by violating its <hi>Laws.</hi> To conclude, <hi>Mark thoſe which cauſe theſe Diviſions, Schiſms, and Offences, contrary to the Doctrine you have received, and avoid them</hi> as Fire-Brands; and ſcorn their Temptation, eſpecially if any would perſwade you to neglect a duty upon <hi>ſuch Argu<g ref="char:EOLhyphen"/>ments,</hi> as you have cauſe to believe, they do not believe <hi>themſelves;</hi> becauſe <hi>they have taught</hi> you the contrary, and never taught you otherwiſe.</p>
+            <p>Though, truly, would you be perſwaded to <hi>commu<g ref="char:EOLhyphen"/>nicate</hi> with us, you would be eaſily convinced, that there is <hi>too little</hi> ground of your ſcruple: for generally, thoſe that are <hi>really profane,</hi> ſave us the labour, being profane <hi>in this</hi> alſo, that they deſpiſe or <hi>neglect the Sa<g ref="char:EOLhyphen"/>crament,</hi> and ſo far <hi>excommunicate</hi> themſelves. How<g ref="char:EOLhyphen"/>ever.</p>
+            <p>I muſt not forget to <hi>caution</hi> ſome of you, who,
+<pb n="28" facs="tcp:103430:17"/> 
+               <hi>haply,</hi> think to <hi>evade</hi> all, by ſaying you do <hi>not deſpiſe</hi> the Ordinance, or <hi>neglect</hi> it; for though you do not receive with us, in <hi>Publique,</hi> yet you do receive in <hi>private;</hi> for conſult your own principles and this will not ſerve <hi>your</hi> turn; nor to be plain, excuſe you from <hi>Schiſm.</hi>
+            </p>
+            <p>If you count it nothing to <hi>diſhearten</hi> your <hi>Miniſter,</hi> and to break the <hi>Laws</hi> both of Church and State; yet ask your <hi>own hearts</hi> why you <hi>refuſe</hi> to Communicate Publickly? Whether it be not, to <hi>avoid</hi> Communion with a wicked <hi>generation?</hi> Ask again if ſo, whether this be not a <hi>Schiſmatical ſeparation,</hi> unjuſtifiable by your <hi>own principles,</hi> as hath been ſaid.</p>
+            <p>Indeed, the <hi>not having</hi> Actual fellowſhip with <hi>every</hi> particular Congregation, (which is <hi>morally</hi> impoſſible) is not <hi>Schiſm;</hi> but doubtleſs to <hi>Refuſe</hi> Communion with <hi>any particular</hi> Church, on <hi>ſuch</hi> a ground, is <hi>Schiſm</hi> in it <hi>ſelf</hi> and <hi>your own</hi> Doctrine. Let me, once again, <hi>reaſon</hi> with you: will you yet, rather, then <hi>break bread</hi> with it, will you rend and <hi>break</hi> the <hi>Church</hi> in <hi>pieces?</hi> rather, then have <hi>Communion</hi> with the body of Chriſt will ye <hi>divide</hi> and tear it? When your <hi>mind</hi> is ſatiſ<g ref="char:EOLhyphen"/>fied, if you <hi>hea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ken</hi> to it, that it is <hi>ſin</hi> in you; and <hi>ſo great</hi> a ſin to do ſo, as the pleaſing of your <hi>ſelves</hi> or <hi>others,</hi> can never Compenſate.</p>
+            <p>Moreover, I hope you will not <hi>miſtake</hi> me, if out of my <hi>tender affection</hi> to you, I deſire you ſeriouſly, to <hi>weigh</hi> with your ſelves, what <hi>comfort</hi> will <hi>ſuffering</hi> af<g ref="char:EOLhyphen"/>ford you, if the <hi>cauſe</hi> be <hi>ſin</hi> and <hi>Schiſm,</hi> and <hi>your own Hearts</hi> conſpire with the <hi>Laws</hi> to Judge and <hi>condemn</hi> you; or, to uſe the <hi>Apoſtles</hi> Words, if the ſentence of <hi>rejection</hi> ſhould paſs againſt you, as <hi>ſuch,</hi> as being <hi>ſubverted</hi> and <hi>ſinning,</hi> are you not <hi>ſelf judged</hi> and <hi>ſelf-condemned?</hi>
+               <pb n="29" facs="tcp:103430:17"/> or what have you to anſwer for <hi>your ſelves</hi> 
+               <note place="margin">
+                  <hi>Tit.</hi> 3. 10.</note> that you ſhould not anſwer the <hi>Laws?</hi> I provoke not the <hi>Law,</hi> I would fain <hi>provoke</hi> you to your <hi>duty.</hi>
+            </p>
+            <p>LAſtly, would you be perſwaded to <hi>Comply</hi> with this duty, how <hi>greatly</hi> would you <hi>Advantage,</hi> both <hi>your ſelves</hi> and <hi>your Generation?</hi> and is not <hi>this</hi> conſiderable with <hi>prudent</hi> perſons? Certainly it is.</p>
+            <p>I need not preſent you with <hi>Arguments</hi> of your own <hi>intereſt</hi> and advantage; they are always with you: your <hi>peace,</hi> your <hi>grace,</hi> your <hi>Spiritual</hi> and <hi>Temporal</hi> comfort, very much <hi>depend</hi> on <hi>this</hi> Ordinance and your <hi>worthy receiving</hi> of it: ſhall I adde, your <hi>Eſtates,</hi> the good of your <hi>families,</hi> yea the intereſt of <hi>that</hi> which you call your <hi>party,</hi> are herein concerned. Conſider the <hi>Laws,</hi> and the <hi>extent</hi> of them.</p>
+            <p>What is the <hi>plea</hi> of your <hi>Adverſaries,</hi> but that, your <hi>general refuſing,</hi> throughout the land; to Communicate <hi>with us,</hi> looks like a <hi>Conſpiracy,</hi> and a dangerous <hi>ſign</hi> of your <hi>reſerving</hi> a <hi>body</hi> to confront (if <hi>occaſion</hi> invites) both the <hi>King</hi> and the <hi>Church?</hi> and how can this be ſo well anſwered, as by your thorough <hi>embodying</hi> with us, and <hi>ſealing</hi> the <hi>un<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ty, openly,</hi> in the <hi>Lords Supper.</hi>
+            </p>
+            <p>What is the <hi>Hope</hi> of our <hi>Common Enemies,</hi> but our ſad <hi>diviſions</hi> among our ſelves, and which way can we <hi>fruſtrate</hi> them, but by our <hi>Communion?</hi>
+            </p>
+            <p>What is the ground of all our <hi>fears?</hi> the means of continuing our <hi>diſtractions</hi> at <hi>home?</hi> the <hi>Confidence</hi> of Neighbour <hi>Nations,</hi> that have <hi>War</hi> with us, but this <hi>one thing,</hi> our <hi>differences</hi> and jealouſies among our ſelves, <hi>kept up</hi> by our <hi>diſtance</hi> in the <hi>Worſhip</hi> of God?
+<pb n="30" facs="tcp:103430:18"/> you are <hi>very near</hi> us: take but this <hi>ſtep farther:</hi> And evidence your <hi>Friendſhip,</hi> by your <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ellowſh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>p</hi> with us, in the Supper of the Lord; and all theſe <hi>Black Clouds</hi> are gone.</p>
+            <p>What elſe remains (in outward appearance) to make us <hi>quiet</hi> and <hi>happy;</hi> to eſtabliſh a <hi>Flouriſhing</hi> Church and State, an Object of <hi>Envy,</hi> but a<g ref="char:EOLhyphen"/>bove the <hi>Malice,</hi> of all the <hi>Nations</hi> round about us?</p>
+            <p>I ſpeak unto <hi>Wiſe men, Judge</hi> ye what I ſay, and <hi>the Lord give you underſtanding in all things.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
